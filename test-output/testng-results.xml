@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34495" started-at="2019-06-20T17:31:25Z" finished-at="2019-06-20T17:32:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34495" started-at="2019-06-20T17:31:25Z" finished-at="2019-06-20T17:32:00Z">
+      <class name="com.frankbahar.cucumber.parallel.google.runner.SearchOutlineFeature">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.frankbahar.cucumber.parallel.google.runner.SearchOutlineFeature@28d25987]" name="runCukes" duration-ms="33957" started-at="2019-06-20T13:31:25Z" finished-at="2019-06-20T13:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.frankbahar.cucumber.parallel.google.runner.SearchOutlineFeature -->
+      <class name="com.frankbahar.cucumber.parallel.google.runner.SearchManyFeature">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.frankbahar.cucumber.parallel.google.runner.SearchManyFeature@46d56d67]" name="runCukes" duration-ms="34480" started-at="2019-06-20T13:31:25Z" finished-at="2019-06-20T13:32:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.frankbahar.cucumber.parallel.google.runner.SearchManyFeature -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

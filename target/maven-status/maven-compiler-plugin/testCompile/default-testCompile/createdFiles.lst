@@ -1,0 +1,6 @@
+com\frankbahar\cucumber\parallel\extent\ExtentTestManager.class
+com\frankbahar\cucumber\parallel\google\BaseSteps.class
+com\frankbahar\cucumber\parallel\google\runner\SearchOutlineFeature.class
+com\frankbahar\cucumber\parallel\extent\ExtentManager.class
+com\frankbahar\cucumber\parallel\google\runner\SearchManyFeature.class
+com\frankbahar\cucumber\parallel\google\GoogleSteps.class
